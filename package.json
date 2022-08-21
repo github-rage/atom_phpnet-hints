@@ -1,7 +1,7 @@
 {
   "name": "phpnet-hints",
   "main": "./lib/main",
-  "version": "0.3.1",
+  "version": "0.1.0",
   "description": "Autocomplete hints for Atom based on live search results from php.net",
   "keywords": [
     "php",
