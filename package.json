@@ -1,0 +1,24 @@
+{
+  "name": "phpnet-hints",
+  "main": "./lib/main",
+  "version": "0.2.0",
+  "description": "Autocomplete hints for Atom based on PHP.net search results",
+  "keywords": [
+    "php.net",
+    "autocomplete",
+    "hints"
+  ],
+  "repository": "https://github.com/github-rage/atom_phpnet-hints",
+  "author": "ragexyz",
+  "license": "GPL-3.0",
+  "engines": {
+    "atom": ">=1.15.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  }
+}
