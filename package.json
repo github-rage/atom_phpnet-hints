@@ -9,7 +9,7 @@
     "hints"
   ],
   "repository": "https://github.com/github-rage/atom_phpnet-hints",
-  "author": "ragexyz",
+  "author": "rage",
   "license": "GPL-3.0",
   "engines": {
     "atom": ">=1.15.0 <2.0.0"
