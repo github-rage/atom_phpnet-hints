@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "description": "Autocomplete hints for Atom based on live search results from php.net",
   "keywords": [
+    "php",
     "php.net",
     "autocomplete",
     "hints"
@@ -17,7 +18,7 @@
   "providedServices": {
     "autocomplete.provider": {
       "versions": {
-        "2.0.0": "getProvider"
+        "0.0.0": "getProvider"
       }
     }
   }
